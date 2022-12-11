@@ -7,18 +7,36 @@ Este script shell serve para resolver um problema depois de cada instalação no
 Lista de programas do scrip-shell Linux Mint:
 
 SNAP
+
 GOOGLE CHROME
 
 GIT-BASH
+
 GIT-HUB
+
 DROPBOX
+
 VISUAL STUDIO CODE
+
 TEAMS
+
 GIMP
+
 VIRTUALBOX
+
 SPOTFY
+
 TEAMVIEWER
+
 WHATSAPP
+
 VLC
+
 WINE
+
 PLAYONLINUX
+
+
+daniel
+barbosa
+pereira
