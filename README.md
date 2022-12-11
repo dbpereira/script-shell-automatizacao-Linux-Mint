@@ -7,7 +7,6 @@ Este script shell serve para resolver um problema depois de cada instalação no
 Lista de programas do scrip-shell Linux Mint:
 
 SNAP
-
 GOOGLE CHROME
 
 GIT-BASH
