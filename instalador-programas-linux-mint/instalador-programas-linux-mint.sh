@@ -31,6 +31,12 @@ chmod a+x githubdesktop.appimage
 sudo ./githubdesktop.appimage --install
 echo ========================================
 
+echo INSTALANDO VISUALG
+sudo snap install visualg
+sudo snap connect visualg:wine-runtime wine-platform-runtime
+sudo snap connect visualg:wine-3-stable wine-platform-3-stable
+echo =======================================
+
 echo INSTALANDO DROPBOX
 sudo apt install dropbox -y
 echo ========================================
